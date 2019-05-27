@@ -1,0 +1,25 @@
+.
+├── checkpoint
+│   └── 7f4f0956-536b-4bdb-9a44-6ab9bb0a78ac
+│       └── rdd-32
+│           ├── part-00000
+│           └── _partitioner
+├── matrix.csv
+├── mernis
+│   ├── data_dump.sql
+│   └── data_dump.sql.sha512
+├── mysql_douban.ipynb
+├── pandas.ipynb
+├── ratings.txt
+├── recommend.txt
+├── spark-lab.ipynb
+├── spark-lab.py
+├── spark-lab-test.py
+├── Spark__projects.pdf
+├── spark-warehouse
+├── tree.txt
+├── Untitled.ipynb
+├── useless.ipynb
+└── xtgl.ipynb
+
+5 directories, 17 files
